@@ -71,6 +71,12 @@ The project includes an interactive Tableau dashboard featuring:
 
 ---
 
+## Dashboard Preview
+
+![Dashboard](images/dashboard.png)
+
+---
+
 ## Key Insights
 
 - Trip distance has a strong positive relationship with trip price.
@@ -86,11 +92,11 @@ The project includes an interactive Tableau dashboard featuring:
 taxi-trip-price-prediction/
 ├── data/
 ├── images/
+│   └── dashboard.png
 ├── notebook/
 │   └── taxi_price_prediction.ipynb
 ├── tableau/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
-![Dashboard Preview](images/dashboard.png)
+```
